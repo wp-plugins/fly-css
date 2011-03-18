@@ -5,11 +5,7 @@ Tags: css
 Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: trunk
-Plugin URI: http://craigatx.com
-Version: 0.9
-Copyright: 2011
-Generator: http://www.craigatx.com/plugin-generator/
-Generated: Wed, 16 Mar 2011 12:23:06 -0500
+
 
 Add CSS to every page on front end or admin screens.
 
@@ -17,17 +13,32 @@ Add CSS to every page on front end or admin screens.
 
 Fly CSS lets you add custom CSS to either the front end (every theme, every page) or the admin screens.  You can use it to temporarily tweak themes or hide annoying nag messages in the admin pages, among other things.
 
+Plugin URI: http://craigatx.com
+Version: 0.9
+Copyright: 2011
+Generator: http://www.craigatx.com/plugin-generator/
+Generated: Wed, 16 Mar 2011 12:23:06 -0500
+
 
 == Installation ==
 
 Upload to your plugins folder and activate.
 
 == Frequently Asked Questions ==
+=None=
+None
+
 
 == Changelog ==
+
+17MAR2011 - Version 0.9 Release
 
 
 == Upgrade Notice ==
 
+None
+
 
 == Screenshots ==
+
+None
